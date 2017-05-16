@@ -1,0 +1,5 @@
+include  MANIFEST.in
+graft admin
+graft contrib
+recursive-include *.py *.cfg
+
